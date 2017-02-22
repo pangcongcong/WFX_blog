@@ -1,0 +1,12 @@
+#çsystem
+.prjide
+*.swp
+*.swo
+*.log
+._*
+.DS*
+*.pj
+*.js.map
+project/in.vim
+test/junit.xml
+node_modules/
